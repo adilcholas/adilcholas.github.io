@@ -1,6 +1,6 @@
 {
-    "name": "dockode_test_web",
-    "short_name": "dockode_test_web",
+    "name": "ad_portfolio",
+    "short_name": "ad_portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
